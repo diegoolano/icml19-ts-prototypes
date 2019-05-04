@@ -1,6 +1,6 @@
 # Spoken Digits Image data and Addendum for ICML 2019 time series workshop submission
 
-The [Free Spoken Digit Dataset](https://github.com/Jakobovski/ free-spoken-digit-dataset) consists of 4 individuals speaking the digits 0 through 9 50 times each for a total size of 2000 wave files.  We took each segment, normalized it zero-mean, unit-variance, clipped it for white space and then converted the resulting arrays into 2-D images.  This data can be thought of as ”spoken MNIST” in image form. 
+The [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) consists of 4 individuals speaking the digits 0 through 9 50 times each for a total size of 2000 wave files.  We took each segment, normalized it zero-mean, unit-variance, clipped it for white space and then converted the resulting arrays into 2-D images.  This data can be thought of as ”spoken MNIST” in image form. 
 
 ![alt text](http://www.diegoolano.com/files/spoken_digits_speakers.png "3 digits spoken by 4 speakers")
 
